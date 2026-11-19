@@ -1,0 +1,12 @@
+# never commit wallet keys or API credentials
+makefun-keypair*.json
+*.keypair.json
+credentials
+.makefun/credentials
+PENTING/
+*.pem
+.env
+.env.*
+node_modules/
+__pycache__/
+*.log
